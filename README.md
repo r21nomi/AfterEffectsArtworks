@@ -1,2 +1,2 @@
 # AfterEffectsArtworks
-Artworks made with AfterEffects
+Artworks made with AfterEffects.
